@@ -32,7 +32,7 @@
 
 ### 🌟 Featured Projects
 
-#### [Terminal-Style 3D Portfolio](https://your-portfolio-link.com)  
+#### [Terminal-Style 3D Portfolio](https://evsportfolio.vercel.app/)  
 ⚡ Built with **React, Three.js, Tailwind CSS**  
 - Retro terminal-themed UI with 3D animations and interactive commands  
 - Integrated CI/CD via **Vercel** + Express.js backend  
