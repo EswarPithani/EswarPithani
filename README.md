@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Eswara Venkata Swaroop Pithani 👋
 
-<!--
-**EswarPithani/EswarPithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 B.Tech in Computer Science and Engineering at **NIT Andhra Pradesh** (CGPA: 8.05/10)
+- 💻 Passionate about **Full-Stack Development, AI/ML, and Cybersecurity**
+- 🏆 Achievements:  
+  - Qualified **GATE 2025** (CSIT)  
+  - Top 5% in **Naukri Young Turks Challenge** (500K+ participants)  
+  - Solved **150+ Leetcode** DSA problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Web Dev:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-FF6F00?style=flat&logo=keras&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+#### [Terminal-Style 3D Portfolio](https://your-portfolio-link.com)  
+⚡ Built with **React, Three.js, Tailwind CSS**  
+- Retro terminal-themed UI with 3D animations and interactive commands  
+- Integrated CI/CD via **Vercel** + Express.js backend  
+
+#### [CT-GAN: Multi-Stage Text-to-Image Generation](https://github.com/EswarPithani/CT-GAN)  
+🧠 **PyTorch | Conditional GANs**  
+- Generated images at 64×64 → 256×256 resolutions from text captions  
+- Evaluated using **Fréchet Inception Distance (FID)**  
+
+---
+
+### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ev3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eswarpithani268@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EswarPithani&show_icons=true&theme=radical)
