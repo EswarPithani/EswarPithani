@@ -1,12 +1,11 @@
 # Hi there, I'm Eswara Venkata Swaroop Pithani 👋
 
 ### 🚀 About Me
-- 🎓 B.Tech in Computer Science and Engineering at **NIT Andhra Pradesh** (CGPA: 8.05/10)
+- 🎓 B.Tech in Computer Science and Engineering at **NIT Andhra Pradesh** 
 - 💻 Passionate about **Full-Stack Development, AI/ML, and Cybersecurity**
 - 🏆 Achievements:  
   - Qualified **GATE 2025** (CSIT)  
-  - Top 5% in **Naukri Young Turks Challenge** (500K+ participants)  
-  - Solved **150+ Leetcode** DSA problems  
+  - Top 5% in **Naukri Young Turks Challenge** (500K+ participants)
 
 ---
 
@@ -16,10 +15,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Web Dev:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+**Web Dev (MERN):**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 **AI/ML:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -44,7 +47,7 @@
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ev3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eswarpithani268@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/eswarpithani/)
 
 ---
 
